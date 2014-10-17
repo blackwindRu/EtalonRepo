@@ -1,0 +1,1 @@
+Etalon project readme file.
