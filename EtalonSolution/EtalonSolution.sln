@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtalonLibrary", "EtalonLibr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtalonConsole", "EtalonConsole\EtalonConsole.csproj", "{338461C9-3DAA-402A-81C4-2C3CC0A5557D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtalonTestProject", "EtalonTestProject\EtalonTestProject.csproj", "{8CEE8B5E-8F89-4C49-8794-1E1B28C992AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{338461C9-3DAA-402A-81C4-2C3CC0A5557D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{338461C9-3DAA-402A-81C4-2C3CC0A5557D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{338461C9-3DAA-402A-81C4-2C3CC0A5557D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CEE8B5E-8F89-4C49-8794-1E1B28C992AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CEE8B5E-8F89-4C49-8794-1E1B28C992AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CEE8B5E-8F89-4C49-8794-1E1B28C992AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CEE8B5E-8F89-4C49-8794-1E1B28C992AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
