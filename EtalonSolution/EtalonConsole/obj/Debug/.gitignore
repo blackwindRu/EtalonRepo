@@ -1,5 +1,5 @@
-*.cache
-*.dll
+*.csprojResolveAssemblyReference.cache
+*.exe
 *.pdb
 /NuGet.targets
 /NuGet.exe
@@ -9,3 +9,9 @@
 /EtalonTestProject.csproj.FileListAbsolute.txt
 /EtalonSolution.v11.suo
 /EtalonLibrary.csproj.FileListAbsolute.txt
+/EtalonConsole.vshost.exe.manifest
+/EtalonConsole.vshost.exe
+/EtalonConsole.exe
+/EtalonConsole.csproj.FileListAbsolute.txt
+/EtalonBranchDObject.cs
+*.cache

@@ -1,6 +1,4 @@
-*.cache
-*.dll
-*.pdb
+*.sln.DotSettings.user
 /NuGet.targets
 /NuGet.exe
 /NuGet.Config
@@ -8,4 +6,3 @@
 /EtalonTestProject.csprojResolveAssemblyReference.cache
 /EtalonTestProject.csproj.FileListAbsolute.txt
 /EtalonSolution.v11.suo
-/EtalonLibrary.csproj.FileListAbsolute.txt
