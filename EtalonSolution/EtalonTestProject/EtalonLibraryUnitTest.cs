@@ -1,5 +1,4 @@
-﻿using System;
-using EtalonLibrary;
+﻿using EtalonLibrary;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace EtalonTestProject
